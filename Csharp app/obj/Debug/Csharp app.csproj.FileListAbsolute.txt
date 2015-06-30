@@ -19,3 +19,9 @@ C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp app.csproj.Gener
 C:\Users\Jan\Downloads\Csharp app\Csharp app\bin\Debug\Csharp app.exe.config
 C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp app.exe
 C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp app.pdb
+C:\Users\Jan\Downloads\Csharp app\Csharp app\bin\Debug\Csharp app.exe
+C:\Users\Jan\Downloads\Csharp app\Csharp app\bin\Debug\Csharp app.pdb
+C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp app.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp_app.Properties.Resources.resources
+C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp app.csproj.GenerateResource.Cache
+C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp_app.Communicator.resources

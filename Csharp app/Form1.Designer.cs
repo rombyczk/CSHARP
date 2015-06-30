@@ -1,6 +1,6 @@
 ﻿namespace Csharp_app
 {
-    partial class Form1
+    partial class Communicator
     {
         /// <summary>
         /// Required designer variable.
@@ -38,7 +38,7 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(23, 13);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(319, 20);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "IP to connect";
             // 
@@ -47,14 +47,14 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(23, 39);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(395, 147);
+            this.listBox1.Size = new System.Drawing.Size(395, 316);
             this.listBox1.TabIndex = 2;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(23, 226);
+            this.button1.Location = new System.Drawing.Point(102, 460);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(215, 49);
             this.button1.TabIndex = 4;
             this.button1.Text = "send";
             this.button1.UseVisualStyleBackColor = true;
@@ -62,22 +62,24 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(23, 193);
+            this.textBox2.Location = new System.Drawing.Point(23, 378);
+            this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(395, 20);
+            this.textBox2.Size = new System.Drawing.Size(395, 60);
             this.textBox2.TabIndex = 5;
             // 
-            // Form1
+            // Communicator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(430, 261);
+            this.ClientSize = new System.Drawing.Size(436, 521);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Name = "Communicator";
+            this.Text = "Communicator";
             this.ResumeLayout(false);
             this.PerformLayout();
 

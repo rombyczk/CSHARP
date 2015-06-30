@@ -13,11 +13,11 @@ using System.Threading;
 
 namespace Csharp_app
 {
-    public partial class Form1 : Form
+    public partial class Communicator : Form
     {
        
 
-        public Form1()
+        public Communicator()
         {
             InitializeComponent();
             MyInits();
@@ -50,6 +50,11 @@ namespace Csharp_app
                 listBox1.Items.Add("SEND ERROR CLIENT");
                 MessageBox.Show(ex.ToString(), "CLIENT ERROR");
             }
+        }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
 
       
