@@ -1,0 +1,21 @@
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\bin\Debug\Csharp app.exe.config
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\bin\Debug\Csharp app.exe
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\bin\Debug\Csharp app.pdb
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\obj\Debug\Csharp app.csprojResolveAssemblyReference.cache
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\obj\Debug\Csharp_app.Form1.resources
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\obj\Debug\Csharp_app.Properties.Resources.resources
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\obj\Debug\Csharp app.csproj.GenerateResource.Cache
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\obj\Debug\Csharp app.exe
+D:\Programowanie\Projekty\Visual C++\Csharp app\Csharp app\obj\Debug\Csharp app.pdb
+C:\Users\Jan\Downloads\C-app-master\Csharp app\bin\Debug\Csharp app.exe.config
+C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp app.exe
+C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp app.pdb
+C:\Users\Jan\Downloads\C-app-master\Csharp app\bin\Debug\Csharp app.exe
+C:\Users\Jan\Downloads\C-app-master\Csharp app\bin\Debug\Csharp app.pdb
+C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp app.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp_app.Form1.resources
+C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp_app.Properties.Resources.resources
+C:\Users\Jan\Downloads\C-app-master\Csharp app\obj\Debug\Csharp app.csproj.GenerateResource.Cache
+C:\Users\Jan\Downloads\Csharp app\Csharp app\bin\Debug\Csharp app.exe.config
+C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp app.exe
+C:\Users\Jan\Downloads\Csharp app\Csharp app\obj\Debug\Csharp app.pdb
